@@ -1,0 +1,8 @@
+{
+  "name": "Kalkulator Super",
+  "description": "Aplikasi kalkulator lengkap dengan mode Standar, Ilmiah, Keuangan, Grafik, dan Pengonversi Satuan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
